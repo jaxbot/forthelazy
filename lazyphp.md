@@ -120,7 +120,7 @@ Arrays
 
 	<?php 
 		// An array is basically a list
-		$cars = array("95 BMW", "08 Altima", "2010 KIA", "90 Camaro", "94 Eclipse", "01 Infiniti");
+		$cars = array("95 BMW", "08 Altima", "2010 KIA", "94 Eclipse", "01 Infiniti");
 
 		// It's numbered from 0 to count($arr) - 1
 		echo $cars[0]; // 95 BMW
