@@ -8,8 +8,6 @@ The purpose of this tutorial is to give a concise example of simple PHP usage.
 
 The purpose is *not* to be necessarily correct, and I encourage all readers to research beyond this page for information they may require.
 
-Dedicated to Ivey, who is too stubborn to sit through a real tutorial and learn these basics.
-
 Know Your Resources
 -------------------
 
